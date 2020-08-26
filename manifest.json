@@ -1,8 +1,8 @@
 {
-    "name": "Wikidot - Have I already voted it?",
+    "name": "Wikidot - CSS Module Previewer",
     "version": "1.0.0",
     "manifest_version": 2,
-    "description": "CHROME EXTENSION FOR DISPLAYING WHETHER YOU'VE ALREADY VOTED THE PAGE ON WIKIDOT.",
+    "description": "Nice.",
     "author": "7happy7",
     "permissions": ["storage", "*://*.scp-wiki.net/*", "*://*.wikidot.com/*"],
     "web_accessible_resources": ["js/*.js"],
